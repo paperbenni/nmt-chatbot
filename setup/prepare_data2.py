@@ -1,4 +1,4 @@
-﻿import os
+import os
 __file__ = os.path.realpath(__file__)
 os.chdir(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 import sys
